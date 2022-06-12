@@ -3,7 +3,7 @@
 👋 Hi there :) I'm developer & master student   
 🔭 I’m currently working on KAIST Data Science Lab.
   
-I enjoy workout, travel and doing experiencing something new. 🏃  
+I enjoy workout, travel and experiencing something new. 🏃  
 
 
 ### 🚀 Skills
