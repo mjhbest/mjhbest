@@ -1,7 +1,7 @@
 <a href="https://jaehyeon-korea.notion.site/Owen-s-Blog-bf229fcbee15492cbcec4575976ff5ee" target="_blank"><img alt="Notion" src ="https://img.shields.io/badge/Blog-000000.svg?&style=flat-square&logo=Notion&logoColor=#000000"/></a> <img src="https://img.shields.io/badge/jaehyeon.myung@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /> <a href="https://www.linkedin.com/in/jhmyung/" target="_blank"><img src="https://img.shields.io/badge/JaehyeonMyung-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/mjhbest" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a> <img alt="linux" src ="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmjhbest1212%2Fhit-counter"/>  
 
 👋 Hi there :) I'm developer & master student   
-🔭 I’m currently working on KAIST Data Science Lab.
+🔭 I’m currently working for KAIST Data Science Lab.
   
 I enjoy workout, travel and experiencing something new. 🏃  
 
