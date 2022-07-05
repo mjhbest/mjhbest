@@ -4,7 +4,7 @@
 🔭 I’m currently working for KAIST Data Science Lab.  
 🏃 I enjoy workout, travel and experiencing something new.   
 
-
+<!--
 ### 🚀 Skills
 #### Languages
 <img alt="Python" src ="https://img.shields.io/badge/Python-FFD43B?&style=flat-square&logo=python&logoColor=white"/> <img alt="C++" src ="https://img.shields.io/badge/C%2B%2B-00599C?&style=flat-square&logo=c%2B%2B&logoColor=white"/> <img alt="Typescript" src ="https://img.shields.io/badge/TypeScript-007ACC?&style=flat-square&logo=typescript&logoColor=white"/> <img alt="R" src ="https://img.shields.io/badge/R-276DC3?&style=flat-square&logo=r&logoColor=white"/> <img alt="Scala" src ="https://img.shields.io/badge/Scala-DC322F?&style=flat-square&logo=scala&logoColor=white"/> <img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84?&style=flat-square&logo=android&logoColor=white"/>   
@@ -13,7 +13,7 @@
 
 #### Tools
 <img alt="git" src ="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white"/> <img alt="linux" src ="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img alt="jupyter" src ="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat-square&logo=Jupyter&logoColor=black"/>  
-
+-->
 #### Languages
 Korean (Native), English (Fluent), German(Beginner)  
 
